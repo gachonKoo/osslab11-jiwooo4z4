@@ -4,7 +4,7 @@ def pythagoras(a,b):
     return C
 
 def circle(r):
-    area = math.pi * r**2
+    area = math.pi * r*2
     return area
 
     
